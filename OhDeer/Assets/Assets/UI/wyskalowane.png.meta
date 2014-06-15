@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: 3bc374cf25c3f2141941284047ad3d9b
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: wyskalowane_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1665
+        width: 346
+        height: 598
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wyskalowane_1
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1490
+        width: 341
+        height: 773
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wyskalowane_2
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1962
+        width: 427
+        height: 261
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wyskalowane_3
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 2072
+        width: 201
+        height: 156
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wyskalowane_4
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 2072
+        width: 186
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wyskalowane_5
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 2077
+        width: 146
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wyskalowane_6
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 2208
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wyskalowane_7
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 2143
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wyskalowane_8
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1897
+        width: 156
+        height: 201
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wyskalowane_9
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 2077
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wyskalowane_10
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1851
+        width: 538
+        height: 121
+      alignment: 4
+      pivot: {x: 0, y: .5}
+    - name: wyskalowane_12
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1540
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wyskalowane_13
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1721
+        width: 181
+        height: 145
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wyskalowane_17
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1545
+        width: 286
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wyskalowane_18
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 1610
+        width: 588
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wyskalowane_20
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 1540
+        width: 341
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wyskalowane_21
+      rect:
+        serializedVersion: 2
+        x: 4026
+        y: 1540
+        width: 342
+        height: 156
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wyskalowane_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1113
+        width: 276
+        height: 326
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wyskalowane_28
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1108
+        width: 277
+        height: 326
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wyskalowane_29
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1123
+        width: 638
+        height: 296
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wyskalowane_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 771
+        width: 502
+        height: 297
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wyskalowane_31
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 766
+        width: 502
+        height: 297
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wyskalowane_32
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 133
+        width: 2255
+        height: 970
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wyskalowane_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 193
+        width: 558
+        height: 448
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wyskalowane_34
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 188
+        width: 803
+        height: 448
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wyskalowane_35
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 178
+        width: 738
+        height: 317
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wyskalowane_36
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 1198
+        width: 537
+        height: 990
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wyskalowane_37
+      rect:
+        serializedVersion: 2
+        x: 4433
+        y: 1198
+        width: 533
+        height: 990
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wyskalowane_38
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 1791
+        width: 351
+        height: 276
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wyskalowane_39
+      rect:
+        serializedVersion: 2
+        x: 4021
+        y: 1791
+        width: 347
+        height: 276
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
